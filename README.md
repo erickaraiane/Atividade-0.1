@@ -35,4 +35,4 @@ Se tiver tudo ajustao
 Inicia processo de marcha 
 Avaliando todas as fases da marcha do paciente 
 Qualida de dos moviemntos e intensidade deles
-Ao final da sessao, reavaliar paciente 
+Ao final da sessao, reavaliar paciente  
