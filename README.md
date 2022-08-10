@@ -150,15 +150,18 @@ var sim, nao **texto**;
     <ajuste>
       
       **Esccreva** "o paciente esta ajustado?"
-      ****leia, sim e nao
-      **se** não, reajustar paciente de forma confortável;
+      **leia**, sim e nao
+      **se** não, **então** reajustar paciente de forma confortável;
       **senão**, iniciar terapia
       <iniciar treino>
       <avalia progresso>
       <continua exercício>
       <finaliza sessão>
-        **Escreva** "Agendar próxima sessão?"
-      **se** sim, voltar ao inicio
+        **escreva** "Agendar próxima sessão?"
+      **se** sim, **então**voltar ao inicio
         **Enquanto** a próxima sessão for agendada **faça**
-       Retomar processo de reabilitação
+       retomar processo de reabilitação
       **senao**, finalizar tratamento. 
+        Fim_se
+        Fim enquanto 
+        Fim
