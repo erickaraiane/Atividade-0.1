@@ -137,3 +137,28 @@ file:///home/ericka.serafini/Imagens/bloco1.png![image](https://user-images.gith
 
 
 
+**Converter as informações compiladas nas questões 1, 2 e 3 em um pseudocódigo **
+
+**Pseudocodigo Reabilitação fisioterapêutica**
+
+var sim, nao **texto**;
+
+**Inicio**
+
+<chegada paciente ao consultorio>
+  <posicionamento>
+    <ajuste>
+      
+      **Esccreva** "o paciente esta ajustado?"
+      ****leia, sim e nao
+      **se** não, reajustar paciente de forma confortável;
+      **senão**, iniciar terapia
+      <iniciar treino>
+      <avalia progresso>
+      <continua exercício>
+      <finaliza sessão>
+        **Escreva** "Agendar próxima sessão?"
+      **se** sim, voltar ao inicio
+        **Enquanto** a próxima sessão for agendada **faça**
+       Retomar processo de reabilitação
+      **senao**, finalizar tratamento. 
