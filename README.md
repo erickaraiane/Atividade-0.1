@@ -91,6 +91,44 @@ Ao final da sessão, reavaliar paciente; **processamento**
 **A partir das informações colocadas no texto da questão 1, destacar o que seriam as estruturas de repetição e de decisão:
 ** 
 
+Se o paciente chegar ao consultório;
+Paciente chega ao consultório;
+Reavaliar a cada sessão; **Estrutura de repetição**
+Se sim, comparar evolução antes de iniciar intervenção; **Estrutura de decisão**
+SE não, não iniciar sessão; **Estrutura de decisão**
+Posicionar o paciente no LOKOMART; **Estrutura de decisão**
+Ajustar o equipamento ao paciente de forma segura e confortável; **Estrutura de decisão**
+Colocar o paciente na posição ortostática com auxilio do exoesqueleto;
+Ajustar equipamento fixando-o em cada articulação; 
+Ajustar equipando em quadril joelho e tornozelo;
+Se o paciente estivar completamente ajustado iniciar intervenção; 
+Se não, reajustar paciente a maquina; **Estrutura de decisão**
+Iniciar treino de marcha de acordo com a possibilidade do paciente;  **Estrutura de repetição**
+Se precisar, consultar fixa de avaliação; **Estrutura de decisão**
+Se for utilizo o Lokomatpro Sensation o algoritmo se adapta ao quadro do paciente solicitando do mesmo esforço máximo;
+O Lokomat fornecerá feedback para o paciente e terapeuta, fornecendo dados para melhor acompanhamento;
+O paciente estará vendo seu progresso e evolução; 
+O equipamento grava dados do paciente como altura, peso, que ficam armazenados para a próxima sessão; 
+Se nao, reprogramar aparelho manualmente; 
+Ao final da sessão reavaliar paciente para no final do tratamento dar alta ou encaminha-lo para outro tartamento;
+Se fim;
+Fim 
+
+ZEROG
+
+Paciente chega ao consultorio; 
+Se o paciente chega sem cinta de supote; 
+Entao terapeuta posicoina cinta no paciente; **Estrutura de decisão**
+A cinta é acoplada no robô zeroG; **Estrutura de repetição**
+Terapeuta ajusta o paciente colocando cintos de suporte; **Estrutura de repetição**
+Ajuste de peso corporal, controle de quedas, posicionamento;
+Se tiver tudo ajustado;
+Inicia processo de marcha; **Estrutura de repetição**
+Se não, reajustar paciente;
+Iniciar marcha com paciente; **Estrutura de repetição**
+Avaliando todas as fases da marcha do paciente; **Estrutura de decisão**
+Qualidade dos movimentos e intensidade deles; **Estrutura de decisão**
+Ao final da sessão, reavaliar paciente; **Estrutura de decisão**
 
 ** foto**
 file:///home/ericka.serafini/Imagens/bloco1.png![image](https://user-images.githubusercontent.com/110609119/183987886-4defa418-7e96-4aee-ac9e-d0578c7024fe.png)
