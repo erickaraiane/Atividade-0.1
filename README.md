@@ -130,6 +130,10 @@ Avaliando todas as fases da marcha do paciente; **Estrutura de decisão**
 Qualidade dos movimentos e intensidade deles; **Estrutura de decisão**
 Ao final da sessão, reavaliar paciente; **Estrutura de decisão**
 
-** foto**
+**Converter as informações compiladas nas questões 1, 2 e 3 em um diagrama de blocos**
+
+
 file:///home/ericka.serafini/Imagens/bloco1.png![image](https://user-images.githubusercontent.com/110609119/183987886-4defa418-7e96-4aee-ac9e-d0578c7024fe.png)
+
+
 
