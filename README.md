@@ -1,6 +1,9 @@
 ATIVIDADE 01 
 INTERAÇÃO PACIENTE MÁQUINA
 
+**1-enunciado?**
+
+
 Se o paciente chegar ao consultório
 Paciente chega ao consultório
 Reavaliar a cada sessão 
@@ -36,3 +39,11 @@ Inicia processo de marcha
 Avaliando todas as fases da marcha do paciente 
 Qualida de dos moviemntos e intensidade deles
 Ao final da sessao, reavaliar paciente  
+
+**segunda questao**
+
+**terceira questao** indicar o que estrutura de 
+
+** foto**
+file:///home/ericka.serafini/Imagens/bloco1.png![image](https://user-images.githubusercontent.com/110609119/183987886-4defa418-7e96-4aee-ac9e-d0578c7024fe.png)
+
