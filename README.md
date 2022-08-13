@@ -133,7 +133,8 @@ Ao final da sessão, reavaliar paciente; **Estrutura de decisão**
 **Converter as informações compiladas nas questões 1, 2 e 3 em um diagrama de blocos**
 
 
-file:///home/ericka.serafini/Imagens/bloco1.png![image](https://user-images.githubusercontent.com/110609119/183987886-4defa418-7e96-4aee-ac9e-d0578c7024fe.png)
+<img width="617" alt="Captura de Tela 2022-08-13 às 20 35 47" src="https://user-images.githubusercontent.com/110609119/184516745-cfe12343-c42c-4536-97b4-21720b5240b5.png">
+
 
 
 
