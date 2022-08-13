@@ -133,9 +133,7 @@ Ao final da sessão, reavaliar paciente; **Estrutura de decisão**
 **Converter as informações compiladas nas questões 1, 2 e 3 em um diagrama de blocos**
 
 
-<img width="617" alt="Captura de Tela 2022-08-13 às 20 35 47" src="https://user-images.githubusercontent.com/110609119/184516745-cfe12343-c42c-4536-97b4-21720b5240b5.png">
-
-
+<img width="549" alt="Captura de Tela 2022-08-13 às 20 47 23" src="https://user-images.githubusercontent.com/110609119/184516925-75695e07-f813-482c-90d0-f8c35d0d3b18.png">
 
 
 **Converter as informações compiladas nas questões 1, 2 e 3 em um pseudocódigo **
