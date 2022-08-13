@@ -149,7 +149,7 @@ var sim, nao **texto**;
   <posicionamento>
     <ajuste>
       
-      **Esccreva** "o paciente esta ajustado?"
+      **Escreva** "o paciente esta ajustado?"
       **leia**, sim e nao
       **se** não, **então** reajustar paciente de forma confortável;
       **senão**, iniciar terapia
