@@ -4,7 +4,7 @@ INTERAÇÃO PACIENTE MÁQUINA
 **Descreva de forma narrativa com a maior quantidade de detalhes possível (Interação paciente máquina, setup, comunicação com hardware, o que estiver mais familiarizado) como se daria a utilização do Lokomat® e ZeroG®. 
 **
 
-
+LOKOMAT
 Se o paciente chegar ao consultório;
 Paciente chega ao consultório;
 Reavaliar a cada sessão;
@@ -46,7 +46,7 @@ Ao final da sessão, reavaliar paciente;
 
 **A partir das informações colocadas no texto da questão 1, destacar o que seriam memória, processamento, entrada/saída**
 
-
+LOKOMAT
 Se o paciente chegar ao consultório; **processamento**
 Paciente chega ao consultório;**processamento**
 Reavaliar a cada sessão;**processamento**
@@ -91,6 +91,7 @@ Ao final da sessão, reavaliar paciente; **processamento**
 **A partir das informações colocadas no texto da questão 1, destacar o que seriam as estruturas de repetição e de decisão:
 ** 
 
+LOKOMAT
 Se o paciente chegar ao consultório;
 Paciente chega ao consultório;
 Reavaliar a cada sessão; **Estrutura de repetição**
@@ -132,8 +133,11 @@ Ao final da sessão, reavaliar paciente; **Estrutura de decisão**
 
 **Converter as informações compiladas nas questões 1, 2 e 3 em um diagrama de blocos**
 
-
+LOKOMAT
 <img width="549" alt="Captura de Tela 2022-08-13 às 20 47 23" src="https://user-images.githubusercontent.com/110609119/184516925-75695e07-f813-482c-90d0-f8c35d0d3b18.png">
+
+ZEROG
+![WhatsApp Image 2022-08-13 at 22 06 29](https://user-images.githubusercontent.com/110609119/184518342-4664a437-385f-41f2-84ea-9104e8fb5ba0.jpeg)
 
 
 **Converter as informações compiladas nas questões 1, 2 e 3 em um pseudocódigo **
