@@ -137,7 +137,8 @@ LOKOMAT
 <img width="549" alt="Captura de Tela 2022-08-13 às 20 47 23" src="https://user-images.githubusercontent.com/110609119/184516925-75695e07-f813-482c-90d0-f8c35d0d3b18.png">
 
 ZEROG
-![WhatsApp Image 2022-08-13 at 22 06 29](https://user-images.githubusercontent.com/110609119/184518342-4664a437-385f-41f2-84ea-9104e8fb5ba0.jpeg)
+<img width="505" alt="Captura de Tela 2022-08-13 às 22 11 36" src="https://user-images.githubusercontent.com/110609119/184518432-77eb15f0-e199-4725-8cdd-79fb49d0fbd8.png">
+
 
 
 **Converter as informações compiladas nas questões 1, 2 e 3 em um pseudocódigo **
