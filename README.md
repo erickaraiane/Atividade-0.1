@@ -157,6 +157,8 @@ var sim, nao **texto**;
       **leia**, sim e nao
       **se** não, **então** reajustar paciente de forma confortável;
       **senão**, iniciar terapia
+      <posicionar paciente no equipamento>
+       <ajustesdo aparelho>
       <iniciar treino>
       <avalia progresso>
       <continua exercício>
